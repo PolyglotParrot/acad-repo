@@ -1,9 +1,13 @@
 # 🎓 Student Name List Manager
 
-This program lets you manage a simple list of students using the console.  
-You can add names, search them, remove them, and view the updated list.
+A simple Java console program to manage a list of student names with options to search, remove, and display an updated list.
 
----
+## Features
+- Add multiple student names.
+- Display all entered students.
+- Search for a student by name.
+- Remove a student by name.
+- Exit with a final updated list.
 
 ## 🚀 Quick Start
 ```bash
@@ -17,8 +21,7 @@ Number of students you want to enter: 3
 Enter student #1: Alice
 Enter student #2: Bob
 Enter student #3: Charlie
-
-List of Students Entered:
+List of Students Entered: 
 Alice
 Bob
 Charlie
@@ -45,7 +48,6 @@ Student successfully deleted.
 Enter choice: 3
 Thank you for using the system.
 
-Updated List:
+Updated List: 
 Bob
 Charlie
-
